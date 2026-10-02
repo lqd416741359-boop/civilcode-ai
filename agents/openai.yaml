@@ -1,0 +1,10 @@
+interface:
+  display_name: "CivilCode AI"
+  short_description: "中国大陆民法典研究、民事争议分析、证据规划与案件准备助手"
+  icon_small: "./assets/cover.png"
+  icon_large: "./assets/cover.png"
+  brand_color: "#123D35"
+  default_prompt: "使用 $civilcode-ai 帮我梳理这起民事纠纷、核验现行法律依据并准备证据和行动方案。"
+
+policy:
+  allow_implicit_invocation: true
